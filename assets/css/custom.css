@@ -1,0 +1,12 @@
+/* 对齐view&like数字和图标 */
+.icon svg {
+    height: 1.3em
+}
+
+/* footer 字体 */
+.text-xs {
+    font-size: 1rem;
+}
+.text-sm {
+    font-size: 1rem;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>摄影 on Benjamin.Xin</title>
+    <link>http://localhost:1313/tags/%E6%91%84%E5%BD%B1/</link>
+    <description>Recent content in 摄影 on Benjamin.Xin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>:copyright: 2024 Benjamin</copyright>
+    <lastBuildDate>Mon, 04 Mar 2024 07:56:50 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%91%84%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nikon Z50入手</title>
+      <link>http://localhost:1313/posts/nikon-z50/</link>
+      <pubDate>Mon, 04 Mar 2024 07:56:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/nikon-z50/</guid>
+      <description>&lt;p&gt;去年入手了 DJI Action3 ，用来记录骑行以及日常生活。前俩天突然买了个优篮子VT-02便携式金属中轴三脚架，带着 Action3 和三脚架去西安湖拍了几张相片，自我感觉不错，就加剧了想入手微单的想法。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/nikon-z50/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

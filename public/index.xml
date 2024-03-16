@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>主页 on Benjamin.Xin</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in 主页 on Benjamin.Xin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>:copyright: 2024 Benjamin</copyright>
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>群青流星</title>
+      <link>http://localhost:1313/friends/karlukle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/friends/karlukle/</guid>
+      <description>我喜欢听花开的声音，更想自由地深情地呼吸。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/friends/karlukle/feature.png" />
+    </item>
+    
+    <item>
+      <title>杜老师说</title>
+      <link>http://localhost:1313/friends/dusays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/friends/dusays/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/friends/dusays/feature.png" />
+    </item>
+    
+    <item>
+      <title>Leonus</title>
+      <link>http://localhost:1313/friends/leonus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/friends/leonus/</guid>
+      <description>进一寸有进一寸的欢喜。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/friends/leonus/feature.png" />
+    </item>
+    
+    <item>
+      <title>Nikon Z50入手</title>
+      <link>http://localhost:1313/posts/nikon-z50/</link>
+      <pubDate>Mon, 04 Mar 2024 07:56:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/nikon-z50/</guid>
+      <description>&lt;p&gt;去年入手了 DJI Action3 ，用来记录骑行以及日常生活。前俩天突然买了个优篮子VT-02便携式金属中轴三脚架，带着 Action3 和三脚架去西安湖拍了几张相片，自我感觉不错，就加剧了想入手微单的想法。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/nikon-z50/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Twikoo评论</title>
+      <link>http://localhost:1313/posts/twikoo-hugo/</link>
+      <pubDate>Fri, 02 Feb 2024 09:57:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/twikoo-hugo/</guid>
+      <description>一个简洁、安全、免费的静态网站评论系统</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/twikoo-hugo/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>解决Git-Emoji-Commit插件显示BUG</title>
+      <link>http://localhost:1313/posts/git-emoji-commit-bug/</link>
+      <pubDate>Thu, 01 Feb 2024 17:52:56 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/git-emoji-commit-bug/</guid>
+      <description>&lt;p&gt;Visual Studio Code有个插件，Git Emoji Commit 中文版，可以在commit时添加emoji表情。但是最近出现BUG，无法点击。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/git-emoji-commit-bug/feature.png" />
+    </item>
+    
+  </channel>
+</rss>
