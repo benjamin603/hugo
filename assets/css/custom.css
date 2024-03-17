@@ -10,3 +10,24 @@
 .text-sm {
     font-size: 1rem;
 }
+
+/* 文章字体 */
+p {
+    font-size: 18px;
+}
+
+
+@font-face {
+    font-family: Noto Serif SC;
+    src: url('/fonts/NotoSerifSC-Regular.otf');
+}
+
+html {
+    font-family: Noto Serif SC;
+}
+
+/*网站全面黑白*/
+
+/*html{
+    filter: grayscale(1);
+}*/

@@ -1,5 +1,5 @@
 ---
-title: "Nikon Z50入手"
+title: "Nikon Z50 入手"
 date: 2024-03-04T07:56:50+08:00
 draft: false
 tags: ["摄影"]

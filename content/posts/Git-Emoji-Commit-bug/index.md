@@ -1,5 +1,5 @@
 ---
-title: "解决Git-Emoji-Commit插件显示BUG"
+title: "解决 Git-Emoji-Commit 插件显示 BUG"
 date: 2024-02-01T17:52:56+08:00
 draft: false
 tags: ["技术"]

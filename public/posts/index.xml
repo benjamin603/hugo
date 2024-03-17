@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 Benjamin</copyright>
-    <lastBuildDate>Mon, 04 Mar 2024 07:56:50 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Mar 2024 20:18:57 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nikon Z50入手</title>
+      <title>Hugo-Github</title>
+      <link>http://localhost:1313/posts/hugo-github/</link>
+      <pubDate>Sat, 16 Mar 2024 20:18:57 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/hugo-github/</guid>
+      <description>把 Hugo 博客托管到 Github Pages 上，可以以几乎为零的成本来搭建一个个人博客。</description>
+      
+    </item>
+    
+    <item>
+      <title>Nikon Z50 入手</title>
       <link>http://localhost:1313/posts/nikon-z50/</link>
       <pubDate>Mon, 04 Mar 2024 07:56:50 +0800</pubDate>
       
@@ -19,7 +29,7 @@
     </item>
     
     <item>
-      <title>Twikoo评论</title>
+      <title>Twikoo 评论</title>
       <link>http://localhost:1313/posts/twikoo-hugo/</link>
       <pubDate>Fri, 02 Feb 2024 09:57:23 +0800</pubDate>
       
@@ -29,7 +39,7 @@
     </item>
     
     <item>
-      <title>解决Git-Emoji-Commit插件显示BUG</title>
+      <title>解决 Git-Emoji-Commit 插件显示 BUG</title>
       <link>http://localhost:1313/posts/git-emoji-commit-bug/</link>
       <pubDate>Thu, 01 Feb 2024 17:52:56 +0800</pubDate>
       
